@@ -97,9 +97,9 @@ Since this project is open source, all codes are clear. Not more or less; You ca
 If you are concerned about security, you can install it on your own computer. If you think someone else has taken over your data, **Whatsapp> Three Dots> Whatsapp Web> Logout**.
 
 ### Do these bots have to pay??
-**Of course not.** It never happens. But you can donate to us. You can reach me via [Whatsapp](https://wa.me/94757405652) .
+**Of course not.** It never happens. But you can donate to us. You can reach me via [Whatsapp](https://wa.me/94719141094) .
 
-Here are all the commands with details. [GistHub](https://gist.github.com/BlackAmda/28493a9b3e4f6f7ade7774a68b7c1c05)
+
 
 ## Thanks everyone! 
 ### We will always remember you..
@@ -116,7 +116,7 @@ By setting up Queen Amdi Bot you are considered to have assumed these responsibi
 
 [![Black Amda](https://github.com/BlackAmda.png?size=100)](https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ)
 
-[Black Amda](https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ)
+
 
 ## License
 This project is protected by the `GNU General Public License v3.0.`
