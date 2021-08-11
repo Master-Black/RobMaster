@@ -109,12 +109,12 @@ If you are concerned about security, you can install it on your own computer. If
 Because of user bots; Your WhatsApp account can be banned.
 This is an open source project, you are responsible for everything you do.
 Certainly, Queen Amdi executives do not take responsibility.
-By setting up Queen Amdi Bot you are considered to have assumed these responsibilities.
+By setting up RobMaster Bot you are considered to have assumed these responsibilities.
 ```
 
-## Developers
+## Developer
 
-[![Black Amda](https://github.com/BlackAmda.png?size=100)](https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ)
+[![RobMaster](https://github.com/RobMaster-black)
 
 
 
