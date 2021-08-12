@@ -84,7 +84,7 @@ $ `bash <(curl -L https://t.ly/j0CU)`
 
 #### 02.  බොත්තම ක්ලික් කරන්න
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RobMaster-black/RobMaster)
 
 ## F.A.Q
 නිතර අසන ප්‍රශ්න කිහිපයකට පිළිතුරු දෙන්න;
