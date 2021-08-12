@@ -61,8 +61,8 @@ Usage is entirely the responsibility of the user. The operating system is not re
   [![join](img/wlogo.svg.png)](https://chat.whatsapp.com/Kkm9w4OyxfQDKSqMzWLugG)
        
 <br>
-## 🔎 What is Queen Amdi Bot?
-**Queen Amdi Bot,** is a WhatsApp userbot like Telegram bot.
+## 🔎 What is RobMaster Bot?
+**RobMaster Bot,** is a WhatsApp userbot like Telegram bot.
 
 ## Setup
 
