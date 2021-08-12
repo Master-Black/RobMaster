@@ -107,7 +107,7 @@ If you are concerned about security, you can install it on your own computer. If
 ```
 Because of user bots; Your WhatsApp account can be banned.
 This is an open source project, you are responsible for everything you do.
-Certainly, Queen Amdi executives do not take responsibility.
+Certainly, RobMaster executives do not take responsibility.
 By setting up RobMaster Bot you are considered to have assumed these responsibilities.
 ```
 
