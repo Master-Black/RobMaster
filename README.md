@@ -58,7 +58,7 @@ Usage is entirely the responsibility of the user. The operating system is not re
 > Click WA logo [Public Bot Group]👇👇
 <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Kkm9w4OyxfQDKSqMzWLugG)
+  [![join](https://github.com/RobMaster-black/RobMaster/blob/bce88e3e2fc2925f39b9b9b84ed8947a7a64f039/img/wlogo.svg.png)](https://chat.whatsapp.com/Kkm9w4OyxfQDKSqMzWLugG)
        
 <br>
 ## 🔎 What is Queen Amdi Bot?
