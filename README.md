@@ -58,7 +58,7 @@ Usage is entirely the responsibility of the user. The operating system is not re
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Kkm9w4OyxfQDKSqMzWLugG)
        
     
 ## 🔎 What is RobMaster Bot?
