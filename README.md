@@ -6,7 +6,7 @@
   <h1 style="background-color:darkred;">RobMaster</h1>
 </div>
 <p align="center">
-   This is Sinhala user bot for WhatsApp.Enjoy with our bot as your friend.
+   RobMaster is Sinhala user bot for WhatsApp.Enjoy with our bot as your friend.
     <br>
        
 </p>
