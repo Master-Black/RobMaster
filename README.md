@@ -55,12 +55,12 @@ Usage is entirely the responsibility of the user. The operating system is not re
 
 
 ## 📢 Guide
-> Click WA logo [Public Bot Group]👇👇
-<br>
+Click WA logo to Join Support Group 👇
+    <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf)
        
-<br>
+    
 ## 🔎 What is RobMaster Bot?
 **RobMaster Bot,** is a WhatsApp userbot like Telegram bot.
 
