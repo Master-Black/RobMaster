@@ -1,6 +1,6 @@
 ##### Select your language
-  [![English](https://img.shields.io/badge/Select-English-darkred.svg)](https://github.com/RobMaster-black/RobMaster/blob/main/README-EN.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/BlackAmda/QueenAmdi/blob/launch/README-SI.md)
+  [![English](https://img.shields.io/badge/Select-English-darkred.svg)](https://github.com/RobMaster-black/RobMaster/blob/main/README.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/RobMaster-black/RobMaster/blob/main/README_SI.md)
 <div align="center">
     <img src="https://i.ibb.co/71yW7xM/RB-logo-1.jpg" alt="Rob Masater" width="300">
   <h1>Rob Master</h1>
