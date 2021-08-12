@@ -21,15 +21,15 @@
  
   </a>
   <a href="https://github.com/RobMaster-black/RobMaster/blob/936d57db23bca3671e7e726d7a7368a237f41a6f/LICENSE">
-    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=red&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=darkred&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/RobMaster-black/RobMaster">
-    <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=red&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=darkred&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/RobMaster-black/RobMaster">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Rob%20Master&color=red&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Rob%20Master&color=darkred&style=plastic">
 
   </a>
   </p>
