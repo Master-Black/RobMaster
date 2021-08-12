@@ -6,7 +6,7 @@
   <h1 style="background-color:darkred;">RobMaster</h1>
 </div>
 <p align="center">
-   මෙය WhatsApp සඳහා සිංහල භාවිත කරන්න බොටෙට. ඔබේ මිතුරා ලෙස අපගේ බොට් සමඟ විනෝද වන්න..
+   RobMaster WhatsApp සඳහා සිංහල භාවිත කරන්න බොටෙක. ඔබේ මිතුරා ලෙස අපගේ බොට් සමඟ විනෝද වන්න..
     <br>
        
 </p>
