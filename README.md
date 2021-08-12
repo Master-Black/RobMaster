@@ -1,6 +1,6 @@
 ##### Select your language
-  [![English](https://img.shields.io/badge/Select-English-darkred.svg)](https://github.com/RobMaster-black/RobMaster/blob/main/README.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/RobMaster-black/RobMaster/blob/main/README_SI.md)
+  [![English](https://img.shields.io/badge/Select-English-darkred.svg)](https://github.com/Master-Black/RobMaster/blob/main/README.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/Master-black/RobMaster/blob/main/README_SI.md)
 <div align="center">
     <img src="https://i.ibb.co/71yW7xM/RB-logo-1.jpg" alt="Rob Masater" width="300">
   <h1 style="background-color:darkred;">RobMaster</h1>
@@ -20,7 +20,7 @@
 <p align="center">
  
   </a>
-  <a href="https://github.com/RobMaster-black/RobMaster/blob/936d57db23bca3671e7e726d7a7368a237f41a6f/LICENSE">
+  <a href="https://github.com/Master-black/RobMaster/blob/936d57db23bca3671e7e726d7a7368a237f41a6f/LICENSE">
     <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=darkred&label=License&style=plastic">
 
   </a>
@@ -84,7 +84,7 @@ From the first device you need to install RobMaster Bot.`
 
 #### 02. Click Deploy button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RobMaster-black/RobMaster)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Master-black/RobMaster)
 
 
 ## F.A.Q
