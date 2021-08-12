@@ -41,14 +41,14 @@
 </p>
 
 ```
-RobMaster is an UserBot for WhatsApp That allowing you to get done so many tasks.
-The user is responsible for all possible consequences of misuse.
-This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
-Additionally, it enables plug-in support for users.
-Install their own plugins to the original software and use as they please.
-Usage is entirely the responsibility of the user. The operating system is not responsible.
+RobMaster යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි.
+අනිසි ලෙස භාවිතා කිරීමේ සියලු ප්‍රතිවිපාක සඳහා පරිශීලකයා වගකිව යුතුය.
+මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි.
+ඊට අමතරව, එය පරිශීලකයින් සඳහා ප්ලග් ඉන් සහාය සක්‍රීය කරයි.
+මුල් මෘදුකාංගයට තමන්ගේම ප්ලගීන සවි කර තමන්ට කැමති පරිදි භාවිතා කරන්න.
+භාවිතය සම්පුර්ණයෙන්ම පරිශීලකයාගේ වගකීමකි. මෙහෙයුම් පද්ධතිය වගකිව යුතු නොවේ.
 
-                        ENJOY WITH BOT
+                        බොට් සමඟ විනෝද වන්න
 ```
 
 
