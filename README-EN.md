@@ -1,5 +1,5 @@
-#### Select your language
-  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/BlackAmda/QueenAmdi/blob/launch/README.md)
+##### Select your language
+  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/RobMaster-black/RobMaster/blob/main/README-EN.md)
   [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/BlackAmda/QueenAmdi/blob/launch/README-SI.md)
 <div align="center">
     <img src="https://i.ibb.co/71yW7xM/RB-logo-1.jpg" alt="Rob Masater" width="300">
@@ -55,14 +55,14 @@ Usage is entirely the responsibility of the user. The operating system is not re
 
 
 ## 📢 Guide
-> Click WA logo [Public Bot Group]👇👇
-<br>
+Click WA logo [RobMaster Support Group]👇
+    <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Kkm9w4OyxfQDKSqMzWLugG)
        
-<br>
-## 🔎 What is Queen Amdi Bot?
-**Queen Amdi Bot,** is a WhatsApp userbot like Telegram bot.
+    
+## 🔎 What is RobMaster Bot?
+**RobMaster Bot,** is a WhatsApp userbot like Telegram bot.
 
 ## Setup
 
@@ -84,9 +84,8 @@ From the first device you need to install Queen Amdi Bot.`
 
 #### 02. Click Deploy button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
 
-AN Tech Official Youtube Channel : https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ
+
 
 ## F.A.Q
 Answer a few frequently asked questions;
@@ -97,9 +96,9 @@ Since this project is open source, all codes are clear. Not more or less; You ca
 If you are concerned about security, you can install it on your own computer. If you think someone else has taken over your data, **Whatsapp> Three Dots> Whatsapp Web> Logout**.
 
 ### Do these bots have to pay??
-**Of course not.** It never happens. But you can donate to us. You can reach me via [Whatsapp](https://wa.me/94757405652) .
+**Of course not.** It never happens. But you can donate to us. You can reach me via [Whatsapp](https://wa.me/94719141094) .
 
-Here are all the commands with details. [GistHub](https://gist.github.com/BlackAmda/28493a9b3e4f6f7ade7774a68b7c1c05)
+
 
 ## Thanks everyone! 
 ### We will always remember you..
@@ -109,14 +108,14 @@ Here are all the commands with details. [GistHub](https://gist.github.com/BlackA
 Because of user bots; Your WhatsApp account can be banned.
 This is an open source project, you are responsible for everything you do.
 Certainly, Queen Amdi executives do not take responsibility.
-By setting up Queen Amdi Bot you are considered to have assumed these responsibilities.
+By setting up RobMaster Bot you are considered to have assumed these responsibilities.
 ```
 
-## Developers
+## Developer
 
-[![Black Amda](https://github.com/BlackAmda.png?size=100)](https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ)
+<button>RobMaster</button>
 
-[Black Amda](https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ)
+
 
 ## License
 This project is protected by the `GNU General Public License v3.0.`
