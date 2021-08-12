@@ -77,10 +77,10 @@ Termux:
 
 $ `bash <(curl -L https://t.ly/j0CU)`
 
-`You need 2 mobile phones to build the Queen Amdi bot!
+`You need 2 mobile phones to build the RobMaster Bot!
 You will run the bot from the second device.
 You will only generate a QR code with the first device.
-From the first device you need to install Queen Amdi Bot.`
+From the first device you need to install RobMaster Bot.`
 
 #### 02. Click Deploy button
 
