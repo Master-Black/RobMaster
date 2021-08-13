@@ -1,6 +1,6 @@
 {
   "name": "RobMaster",
-  "version": "dev v1",
+  "version": "v1.0",
   "description": "RobMaster Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./RobMaster/bot.js",
   "scripts": {
